@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-a65e9": {
+      "hosting": {
+        "login": [
+          "login-a65e9"
+        ]
+      }
+    }
+  }
+}
